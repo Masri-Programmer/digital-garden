@@ -1,8 +1,11 @@
 ---
 Origin: 
 References: 
-Tags: #🗃/🌻 
+tags: 
 Created: 2025-03-20
+author:
+  - Mohamad Masri
+title: Welcome
 ---
 
 <h1 align="center">
@@ -16,7 +19,7 @@ Created: 2025-03-20
  
  🔭 I’m currently working at **Meinders & Elstermann Gmbh!**
  
- 🌱 I’m currently **Software Development**
+ 🌱 I’m trying to build a positive fan base 
 
  💬 Ask me about **Vue & Laravel**
 
@@ -60,6 +63,7 @@ Created: 2025-03-20
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Masri-programmer&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br/>	
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masri-programmer&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 

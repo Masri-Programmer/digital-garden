@@ -1,5 +1,3 @@
-Here are the links with appropriate icons:
-
 ## General Job Boards
 
 - **💼 [XING Jobs - Software Developer Frontend (all genders)](https://www.xing.com/jobs/bremen-software-developer-frontend-all-genders-108392221?paging_context=search&search_query%255Bkeywords%255D=Frontend%2520Developer&search_query%255Blocation%255D=Oldenburg&search_query%255Bradius%255D=50&search_query%255Bfilter%255D%255Btype%255D%255B%255D=FULL_TIME&search_query%255Bfilter%255D%255Blevel%255D%255B%255D=2&search_query%255Bfilter%255D%255Bdistance%255D%255B%255D=2857458&search_query%255Blimit%255D=20&search_query%255Boffset%255D=0&ijt=jb_18)**  
