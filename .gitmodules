@@ -1,0 +1,3 @@
+[submodule "content/digital-garden"]
+	path = content/digital-garden
+	url = https://github.com/Masri-Programmer/digital-garden.git
