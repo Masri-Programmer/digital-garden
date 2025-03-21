@@ -10,8 +10,7 @@ import {
 } from "./cli/handlers.js"
 import { CommonArgv, BuildArgv, CreateArgv, SyncArgv } from "./cli/args.js"
 import { version } from "./cli/constants.js"
-// npx quartz build --serve
-// npx quartz sync
+
 yargs(hideBin(process.argv))
   .scriptName("quartz")
   .version(version)
